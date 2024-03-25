@@ -7,6 +7,9 @@
     background: black;
 }
 
+.title{
+    color: white;
+}
 .img_circular{
     width: 200px; /* Ancho deseado */
     height: 200px; /* Altura deseada */
